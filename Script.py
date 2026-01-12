@@ -164,10 +164,10 @@ class script(object):
     ABOUT_TXT = """<b>╔══❰ {} ❱═════❍
 ║╭━━━━━━━━━━━━━━━━━━➣
 ║┣⪼🤖 ᴍʏ ɴᴀᴍᴇ : {}
-║┣⪼👦 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/AV_OWNER_BOT'>ᴀᴠ ᴄʜᴀᴛ ᴏᴡɴᴇʀ</a>
-║┣⪼❣️ ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/AV_BOTz_UPDATE>ᴀᴠ ʙᴏᴛᴢ</a>
+║┣⪼👦 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/PRESIDENTIND7'>President</a>
+║┣⪼❣️ ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/Radha_Rani_Backup></a>
 ║┣⪼⏲️ ʙᴏᴛ ᴜᴘᴛɪᴍᴇ :- {}
-║┣⪼📡 ʜᴏsᴛᴇᴅ ᴏɴ : ᴋᴏʏᴇʙ 
+║┣⪼📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ 
 ║┣⪼🗣️ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 ║┣⪼📚 ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ
 ║┣⪼🗒️ ᴠᴇʀsɪᴏɴ : {} [sᴛᴀʙʟᴇ]
