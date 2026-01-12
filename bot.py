@@ -66,7 +66,7 @@ files = glob.glob(ppath)
 # ===============================
 async def Webav_start():
     print("\n")
-    print("Credit - Telegram @BOT_OWNER26")
+    print("Credit - Telegram @PRESIDENTIND7")
 
     try:
         # 1. Initialize additional clients
@@ -178,3 +178,4 @@ if __name__ == "__main__":
         logging.info("Service Stopped Bye 👋")
     except Exception:
         logger.critical("CRITICAL RUNTIME ERROR", exc_info=True)
+
