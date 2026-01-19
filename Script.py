@@ -165,7 +165,7 @@ class script(object):
 ║╭━━━━━━━━━━━━━━━━━━➣
 ║┣⪼🤖 ᴍʏ ɴᴀᴍᴇ : {}
 ║┣⪼👦 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/PRESIDENTIND7'>President</a>
-║┣⪼❣️ ᴜᴘᴅᴀᴛᴇ : <a href=https://t.me/Radha_Rani_Backup></a>
+║┣⪼❣️ ᴜᴘᴅᴀᴛᴇ : <a href='https://t.me/Radha_Rani_Backup'></a>
 ║┣⪼⏲️ ʙᴏᴛ ᴜᴘᴛɪᴍᴇ :- {}
 ║┣⪼📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ 
 ║┣⪼🗣️ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
@@ -248,7 +248,7 @@ class script(object):
 💸 <b>ᴜᴘɪ ɪᴅ:</b> <code>.......</code> (ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ)
 
 📸 <i>sᴇɴᴅ ᴘᴀʏᴍᴇɴᴛ sᴄʀᴇᴇɴsʜᴏᴛ ᴛᴏ ᴀᴅᴍɪɴ ꜰᴏʀ ᴀᴄᴛɪᴠᴀᴛɪᴏɴ.</i>
-🏷️ <a href='https://t.me/AV_PREMIUM_PROOF'>ᴄʜᴇᴄᴋ ᴘʀᴇᴍɪᴜᴍ ᴘʀᴏᴏꜰs</a>"""
+🏷️ <a href='https://t.me/PRESIDENTIND7'>ᴄʜᴇᴄᴋ ᴘʀᴇᴍɪᴜᴍ ᴘʀᴏᴏꜰs</a>"""
     
     PREMIUM_TEXT = """<b>👑 <u>ᴘʀᴇᴍɪᴜᴍ sᴛᴀᴛᴜs</u></b>
 
