@@ -92,7 +92,7 @@ BATCH_LIMIT = int(environ.get('BATCH_LIMIT', 60))
 QR_CODE = environ.get('QR_CODE', 'https://i.ibb.co/4nT0x43P/Img2url-bot.jpg')
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
 AUTH_PICS = environ.get('AUTH_PICS', 'https://indicamps.in/uploads/file_253.jpg')
-PICS = environ.get('PICS', 'https://ibb.co/VpTJNNCN')
+PICS = environ.get('PICS', 'https://indicamps.in/uploads/file_258.jpg')
 FILE_PIC = environ.get('FILE_PIC', 'https://i.ibb.co/bj4My0bW/photo-2025-07-21-02-15-21-7529360175656861700.jpg')
 
 FILE_CAPTION = environ.get('FILE_CAPTION', script.CAPTION)
